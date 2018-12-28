@@ -9519,6 +9519,10 @@ body header hr {
   color: #15dbfa;
 }
 
+.jumbotron {
+  background-color: #ecf0f5;
+}
+
 .spreading-light > .cyan {
   background-color: #15dbfa;
 }
